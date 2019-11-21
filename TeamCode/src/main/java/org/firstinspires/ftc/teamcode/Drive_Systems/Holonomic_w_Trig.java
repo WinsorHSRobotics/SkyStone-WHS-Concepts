@@ -18,6 +18,17 @@ import com.qualcomm.robotcore.util.Range;
     This concept was implemented in the 2017-18 FTC season and written by Anthony Romero,
     Jordan Newport and Dominic Scolari on TEAM 5115 WizardsRobotics
 
+       Robot wheel mapping: //TODO Determine if this is correct
+          X FRONT X
+        X           X
+      X  F1       F2  X
+              X
+             XXX
+              X
+      X  R1       R2  X
+        X           X
+          X       X
+
 */
 @TeleOp(name = "Concept: Holonomic with Trig", group = "Concept")
 @Disabled
